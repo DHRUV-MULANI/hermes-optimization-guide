@@ -1,10 +1,9 @@
-# Python bytecode
+node_modules/
+.npm/
+venv/
+.venv/
 __pycache__/
-*.pyc
-
-# Benchmark run output (results are summarized in benchmarks/README.md)
-benchmarks/results/
-
-# Editor/OS noise
-.DS_Store
+.env
 *.log
+bin/
+obj/
